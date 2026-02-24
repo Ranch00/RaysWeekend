@@ -7,4 +7,6 @@ add_executable(inOneWeekend)
 target_sources(inOneWeekend
     PRIVATE
         src/main.cpp
+        src/vec3.h
+        src/color.h
 )
