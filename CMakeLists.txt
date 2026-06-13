@@ -15,4 +15,5 @@ target_sources(inOneWeekend
         src/hittable_list.h
         src/raytracer.h
         src/interval.h
+        src/camera.h
 )
